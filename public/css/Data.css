@@ -1,0 +1,41 @@
+.criteria {
+    text-align: center;
+    padding-top: 0.5%;
+    font-weight: 400;
+    font-size: 120%;
+}
+
+.results {
+    border: 1px solid cornflowerblue;
+    width: 80%;
+    margin: 1% 10%;
+    text-align: center;
+}
+
+fieldset.criteriaUI {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    border: none;
+}
+
+h1.criteriaUI {
+    padding: 0;
+    margin: 5px 0 0 0;
+}
+
+th {
+    border-bottom: 1px solid cornflowerblue;
+    color: steelblue;
+}
+
+th, td {
+    padding: 0.5%;
+}
+
+p.subSection {
+    display: inline-block;
+    width: 24%;
+}

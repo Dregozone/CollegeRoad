@@ -1,0 +1,24 @@
+h1.details {
+    text-align: center;
+}
+
+.personalDetails {
+    width: 60%;
+    margin-left: 20%;
+}
+
+label {
+    display: inline-block;
+    text-align: right;
+    margin-right: 1%;
+    width: 40%;
+}
+
+input[type="text"], input[type="password"], select {
+    width: 40%;
+}
+
+input[type="submit"] {
+    width: 10%;
+    margin-left: 45%;
+}
